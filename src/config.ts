@@ -1,49 +1,49 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Kaan Oguzhan ALBAY",
+  title: "Junior Data Analyst",
+  description: "Portfolio website of Kaan Oguzhan ALBAY",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "kaanoguzhanalbay@gmail.com",
+    linkedin: "https://www.linkedin.com/in/kaan-o%C4%9Fuzhan-albay-9b2ba7342/",
+    twitter: "",
+    github: "https://github.com/KaanOguzhanALBAY",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I have a business administration degree from the social sciences. I work in data analytics and data science. My passion for continuous learning and analytical thinking allow me to continuously improve myself both academically and in my professional life. I am open to learning, highly energetic, and solution-oriented.",
+  skills: ["Sql", "Tableau", "R", "Python", "Excel", "GoogleDocs"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Bellabeat Case Study with R",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "My case study examines trends, patterns, and anomalies in smart fitness device usage data to uncover insights that could help Bellabeat improve its products or processes. For details, you can see my project on Kaggle.",
+      link: "https://www.kaggle.com/code/kaanouzhanalbay/bellabeat-case-study-with-r",
+      skills: ["R", "Tidyverse", "Data Manipulation"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "",
+      link: "",
+      skills: ["", "", ""],
     },
     {
-      name: "ExtensionKit",
+      name: "",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "",
+      link: "",
+      skills: ["", "", ""],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Playerauctions, G2g, Eldorado",
+      title: "Shop Administration",
+      dateRange: "Jan 2019 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "I have successfully sold a total of 900+ products in my stores where I sell various digital game products with 99.8% customer satisfaction.",
+        "One of the stores has the best feedback rate on the platform.",
+        "https://www.playerauctions.com/store/flyhunter05/",
       ],
     },
     {
