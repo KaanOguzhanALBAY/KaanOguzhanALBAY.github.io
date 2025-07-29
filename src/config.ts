@@ -20,20 +20,8 @@ export const siteConfig = {
       link: "https://www.kaggle.com/code/kaanouzhanalbay/bellabeat-case-study-with-r",
       skills: ["R", "Tidyverse", "Data Manipulation"],
     },
-    {
-      name: "",
-      description:
-        "",
-      link: "",
-      skills: ["", "", ""],
-    },
-    {
-      name: "",
-      description:
-        "",
-      link: "",
-      skills: ["", "", ""],
-    },
+   
+  
   ],
   experience: [
     {
@@ -46,26 +34,8 @@ export const siteConfig = {
         "https://www.playerauctions.com/store/flyhunter05/",
       ],
     },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
+    
+   
   ],
   education: [
     {
